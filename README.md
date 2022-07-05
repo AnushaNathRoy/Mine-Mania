@@ -3,6 +3,7 @@
 Welcome to the Mines of Moria! Collect your riches miners but beaware of the enemies lurking in the dark. Good Luck on your voyage!
 
 ## Demo
+![demo](https://github.com/AnushaNathRoy/Mine-Mania/blob/main/demo/game_demo.mov)
 
 ## Features of the Game
 
